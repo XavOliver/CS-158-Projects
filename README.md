@@ -1,1 +1,1 @@
-Repository for CS-302 assignments
+W.I.P. Personal Professional Site
